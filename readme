@@ -1,0 +1,48 @@
+Welcome to my Python journey! 🎉
+
+This repository showcases the small projects I've built while learning Python. Each project is simple but highlights the different concepts I've been working on through my classes. 
+This repository will evolve over time as I complete more projects, so feel free to check back often!
+
+Table of Contents
+About the Repository
+Projects
+Getting Started
+Usage
+Contact
+About the Repository
+
+
+This repository is a collection of all the Python projects I’ve completed as part of my learning journey. My goal is to apply what I learn in small, focused projects, which range from simple exercises 
+like detecting whether a number is odd or even to more complex projects as I progress.
+By uploading my projects here, I’m also learning more about GitHub as a platform and version control. I expect some bumps along the way, but that’s all part of the learning process!
+Feel free to explore the code, try out the projects, and learn alongside me.
+
+Projects / Activities
+Here’s a list of the small projects in this repository:
+
+Odd or Even Detector
+A simple program that takes a user’s number input and determines whether it is odd or even.
+
+Getting Started
+To run any of the projects in this repository, all you need is Python installed on your system.
+
+Prerequisites
+Python (any recent version)
+
+How to Clone the Repository
+To clone this repository to your local machine, run the following command in your terminal:
+
+git clone https://github.com/yourusername/Python-Learning-Projects.git
+
+Usage
+Each project is self-contained within its own Python file. You can navigate to the desired project and run it using Python.
+
+For example, to run the Odd or Even Detector, use the following command:
+
+python odd_or_even.py
+
+Contact
+If you have any questions or want to follow along with my progress, feel free to reach out:
+
+GitHub: imjustjonny
+Feel free to modify this file and structure as you see fit. More projects coming soon!
