@@ -3,10 +3,9 @@
 #User Input
 user_input = int(input("What is your number?: "))
 
-#If statements to check is the modulo left over is 0 (even) or 1 (odd).
+#If statement to check is the modulo left over is 0 (even).
 if user_input % 2 == 0:
     print("Your number is even.")
-elif user_input % 2 == 1:
-    print("Your number is odd.")
+#If module != 0, prints odd.
 else:
-    print("Invalid input.")
+    print("Your number is odd.")
